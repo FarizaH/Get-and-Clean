@@ -27,7 +27,7 @@ Specific steps in run_analysis.R are as follows:
 * Converts the activity and subject columns into factors.
 * Creates a tidy dataset that consists of the average (mean) value of each variable for each subject and activity pair.
 
-The output is shown in the file TidyData.txt.
+The output is shown in the file tidy.txt.
 
 ### Source Data
 A full description of the data used in this project can be found at The UCI Machine Learning Repository at url : https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
